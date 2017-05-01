@@ -25,11 +25,11 @@ $ python DEsimulation.py
 
 ## Versioning
 
-For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+For the versions available, see the [tags on this repository](https://github.com/mulalahmar/Rental-Business-Simulation/tags). 
 
 ## Authors
 
-* **Maher Lahmar** - [PurpleBooth](https://github.com/mlahmar)
+* **Maher Lahmar** - [PurpleBooth](https://github.com/mulalahmar)
 
 ## License
 
